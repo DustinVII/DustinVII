@@ -48,6 +48,8 @@ A lifelong learner, passionate about creating connected web experiences
 </span>
 </p>
 
+<img src="https://techcrunch.com/wp-content/uploads/2025/06/opengraph-image.png?resize=1175,617" alt="Cursor" />
+
 ---
 
 <p align="center">
