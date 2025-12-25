@@ -12,8 +12,7 @@ who’s been messing with computers for as long as I can remember.
 </p>
 My dad brought home a Windows 95 PC and let me draw with the mouse in Paint, which was not easy at first but fun.
 
-- I started with tech at **age 7**, running **Windows 95**
-- At **age 10**, I built my **first HTML webpage** (in Notepad!) while **GeoCities** was still a thing and Google didn't exist yet. Yes, the browsers we used were Internet Explorer and Netscape. Not sure if you heard about Netscape..
+- At **age 10**, I coded my **first HTML webpage** (in Notepad!) while **GeoCities** was still a thing and Google didn't exist yet. Yes, the browsers we used were Internet Explorer and Netscape. Not sure if you heard about Netscape..
 - Gaming pulled me deeper into development as I wanted my **own website** for my **online clan** and got some help from my first online friends at that time (when there was no Google, YouTube or ChatGPT!)
 - My mom and uncle inspired me into me really wanting to be able to type fast at that time
 - I was playing **Quake 2 online** as a kid and suddenly coding, graphics, 3D modelling and servers became just as exciting as fragging 😄
@@ -33,12 +32,17 @@ And more later, not long after that.. I helped businesses on a larger scale, dev
 ![Me traveling](images/1.png)
 <p align="center"><a href="https://www.youtube.com/@DustinDestinations" target="_blank">Watch my travel YouTube channel</a></p>
 
-So that mix of **curiosity and creativity** never really left... 👀 I don't think it ever will...
 <p align="center">
   <img src="images/2.jpg" alt="Me at the prototyping fair in 2024" width="350" />
 </p>
 
 So in 2023, after lots and lots of travel, I was thinking, I'm a self-taught developer, all these years I never did a single formal training in Software Engineering or ICT... but what if I do it now? another bachelor... in ICT? The more I was thinking about this idea, the more it inspired me to do it. So I finally decided to start this new journey and in the first year I won first place with my team at prototyping fair where we had to build something in terms of the Internet of Things.
+
+<p align="center">
+  <span style="font-size:1.2em;">
+    So that mix of <strong>passion for tech, curiosity and creativity</strong> never really left... 👀<br />and I don't think it ever will...
+  </span>
+</p>
 
 ---
 
