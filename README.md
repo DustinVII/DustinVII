@@ -1,9 +1,16 @@
 # 👋 Hi, I’m Dustin
 
-I’m a **software engineer / builder / tech enthusiast** who’s been messing with computers for as long as I can remember.
+I’m a **Software Engineer / Tech Enthusiast**
 
-### How it all started
-![Me in 1997, age 7 on Windows 95](images/1.jpg)
+who’s been messing with computers for as long as I can remember.
+
+<p align="center">
+  <h3 align="center">It started when I was 7...</h3>
+</p>
+<p align="center">
+  <img src="images/1.jpg" alt="Me in 1997, age 7 on Windows 95" width="350" />
+</p>
+My dad brought home a Windows 95 PC and let me draw with the mouse in Paint, which was not easy at first but fun.
 
 - I started with tech at **age 7**, running **Windows 95**
 - At **age 10**, I built my **first HTML webpage** (in Notepad!) while **GeoCities** was still a thing and Google didn't exist yet. Yes, the browsers we used were Internet Explorer and Netscape. Not sure if you heard about Netscape..
@@ -11,25 +18,27 @@ I’m a **software engineer / builder / tech enthusiast** who’s been messing w
 - My mom and uncle inspired me into me really wanting to be able to type fast at that time
 - I was playing **Quake 2 online** as a kid and suddenly coding, graphics, 3D modelling and servers became just as exciting as fragging 😄
 
-A bit later I found a virtual community called Cybertown where I helped building 3D assets and provide coding help. With these new skills I managed to find my first developer job at a local company called Alembo way back in 2004/2005 'ish
+A bit later I found a virtual community called Cybertown where I helped building 3D assets and provide coding help. With these new skills I managed to find my first developer job at a local company called Alembo way back in 2004/2005 'ish. Where I got paid to develop or fix websites, which felt weird because it still felt as if I was just playing video games.
 
-![Me with colleagues at Alembo as a developer](images/5.jpg)
-
-![Me at my graduation Bachelor in Business Administration](images/3.jpg)
+<p align="center">
+  <img src="images/5.jpg" alt="Me with colleagues at Alembo as a developer" width="350" />
+</p>
 
 After about 4 years working there, making long hours, I decided to get a bachelor's degree in management and law, which I graduated in, as I found I lacked those skills at that time.
 
-![Me helping a company automate their processes](images/6.jpg)
+![Me at my graduation Bachelor in Business Administration and on the right, me helping a company automate their processes](images/2.png)
 
 And more later, not long after that.. I helped businesses on a larger scale, developing software to automate important processes and help them get things done which eventually (and unexpectedly) caused me to travel a lot in my country and explore beautiful places
 
 ![Me traveling](images/1.png)
+<p align="center"><a href="https://www.youtube.com/@DustinDestinations" target="_blank">Watch my travel YouTube channel</a></p>
 
 So that mix of **curiosity and creativity** never really left... 👀 I don't think it ever will...
+<p align="center">
+  <img src="images/2.jpg" alt="Me at the prototyping fair in 2024" width="350" />
+</p>
 
-![Me traveling](images/2.jpg)
-
-So in 2023, after doing lots and lots of travel, I was thinking, I'm a self-taught developer, but what if I do another bachelor... in ICT? The more I was thinking about the idea, the more it inspired me to do it. So I decided to start this new journey and in the first year I won first place with my team at prototyping fair where we had to build something in terms of the Internet of Things.
+So in 2023, after lots and lots of travel, I was thinking, I'm a self-taught developer, all these years I never did a single formal training in Software Engineering or ICT... but what if I do it now? another bachelor... in ICT? The more I was thinking about this idea, the more it inspired me to do it. So I finally decided to start this new journey and in the first year I won first place with my team at prototyping fair where we had to build something in terms of the Internet of Things.
 
 ---
 
