@@ -5,7 +5,16 @@
 </p>
 
 <p align="center">
-A liflong learner, passionate about creating connected web experiences
+A lifelong learner, passionate about creating connected web experiences
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername?tab=repositories">
+    <img src="https://dabuttonfactory.com/button.png?t=Repositories&f=Open+Sans-Bold&ts=19&tc=000&tshs=1&tshc=eee&hp=31&vp=11&c=17&bgt=gradient&bgc=fff&ebgc=f3f3f3" alt="Repositories" style="margin:10px;" />
+  </a>
+  <a href="https://aws.dulamari.com" target="_blank">
+    <img src="https://dabuttonfactory.com/button.png?t=Experiments&f=Open+Sans-Bold&ts=19&tc=000&tshs=1&tshc=eee&hp=31&vp=11&c=17&bgt=gradient&bgc=fff&ebgc=f3f3f3" alt="Experiments" style="margin:10px;" />
+  </a>
 </p>
 
 ---
@@ -30,7 +39,7 @@ A liflong learner, passionate about creating connected web experiences
 </p>
 
 <p align="center">
-<span style="font-size:1.5em;">
+<span style="font-size:24px;">
   My favorite IDE at the moment? <strong>Cursor!</strong> ❤️
 </span>
 </p>
@@ -38,7 +47,7 @@ A liflong learner, passionate about creating connected web experiences
 ---
 
 <p align="center">
-...and who’s been messing with computers for as long as I can remember.
+...I've been messing with computers for as long as I can remember.
 </p>
 
 
@@ -79,7 +88,7 @@ In 2023, after 9 years of travel, I decided to formalize my self-taught coding p
 </p>
 
 <p align="center">
-  <span style="font-size:1.5em;">
+  <span style="font-size:23px;">
     So that mix of <strong>passion for tech, curiosity and creativity</strong> never really left... 👀<br />and I don't think it ever will...
   </span>
 </p>
