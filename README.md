@@ -1,8 +1,12 @@
-# 👋 Hi, I’m Dustin
+![Me at my graduation Bachelor in Business Administration and on the right, me helping a company automate their processes](images/7.jpg)
 
-I’m a **Software Engineer / Tech Enthusiast**
-
+<p align="center">
+<strong>Software Engineer / Tech Enthusiast</strong>
+</p>
+<p align="center">
 who’s been messing with computers for as long as I can remember.
+</p>
+
 
 <p align="center">
   <h3 align="center">It started when I was 7...</h3>
