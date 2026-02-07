@@ -1,5 +1,3 @@
-![Me at my graduation Bachelor in Business Administration and on the right, me helping a company automate their processes](images/7.jpg)
-
 <p align="center">
 <strong>Software Engineer / Tech Enthusiast</strong>
 </p>
