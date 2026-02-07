@@ -1,12 +1,4 @@
 <p align="center">
-<strong>Software Engineer / Tech Enthusiast</strong>
-</p>
-
-<p align="center">
-A lifelong learner, passionate about creating connected web experiences
-</p>
-
-<p align="center">
 
   <a href="https://github.com/DustinVII?tab=repositories">
     <img src="https://dabuttonfactory.com/button.png?t=Repositories&f=Open+Sans-Bold&ts=19&tc=000&tshs=1&tshc=eee&hp=31&vp=11&c=17&bgt=gradient&bgc=fff&ebgc=f3f3f3" alt="Repositories" style="margin:15px;" /></a>
