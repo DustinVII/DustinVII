@@ -45,7 +45,9 @@
 <img src="https://techcrunch.com/wp-content/uploads/2025/06/opengraph-image.png?resize=1175,617" alt="Cursor" />
 
 <p align="center">
-[![committers.top badge](https://user-badge.committers.top/suriname/DustinVII.svg)](https://user-badge.committers.top/suriname/DustinVII)
+  <a href="https://user-badge.committers.top/suriname/DustinVII">
+    <img src="https://user-badge.committers.top/suriname/DustinVII.svg" alt="committers.top badge" />
+  </a>
 </p>
 ---
 
